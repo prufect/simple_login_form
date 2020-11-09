@@ -1,0 +1,7 @@
+library simple_login_form;
+
+/// A Calculator.
+class Calculator {
+  /// Returns [value] plus 1.
+  int addOne(int value) => value + 1;
+}
