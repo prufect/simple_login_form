@@ -1,7 +1,7 @@
 name: simple_login_form
-description: A new Flutter package project.
+description: A simple login form for you flutter web projects.
 version: 0.0.1
-author:
+author: Prudhvi Gadiraju<gadiraju.prudhvi@gmail.com>
 homepage:
 
 environment:
